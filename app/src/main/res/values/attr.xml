@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExtendEditText">
+        <attr name="left_drawable" format="reference"/>
+        <attr name="left_text" format="string"/>
+        <attr name="left_textSize" format="dimension"/>
+        <attr name="left_textColor" format="color"/>
+        <attr name="left_drawablePadding" format="dimension"/>
+        <attr name="left_padding" format="dimension"/>
+        <attr name="left_paddingLeft" format="dimension"/>
+        <attr name="left_paddingTop" format="dimension"/>
+        <attr name="left_paddingRight" format="dimension"/>
+        <attr name="left_paddingBottom" format="dimension"/>
+
+        <!--<attr name="mid_hint" format="string"/>-->
+        <!--<attr name="mid_textColorHint" format="color"/>-->
+        <!--<attr name="mid_text" format="string"/>-->
+        <!--<attr name="mid_textSize" format="dimension"/>-->
+        <!--<attr name="mid_textColor" format="color"/>-->
+        <!--<attr name="mid_padding" format="dimension"/>-->
+        <!--<attr name="mid_paddingLeft" format="dimension"/>-->
+        <!--<attr name="mid_paddingTop" format="dimension"/>-->
+        <!--<attr name="mid_paddingRight" format="dimension"/>-->
+        <!--<attr name="mid_paddingBottom" format="dimension"/>-->
+
+        <attr name="right_drawable" format="reference"/>
+        <attr name="right_text" format="string"/>
+        <attr name="right_textSize" format="dimension"/>
+        <attr name="right_textColor" format="color"/>
+        <attr name="right_drawablePadding" format="dimension"/>
+        <attr name="right_padding" format="dimension"/>
+        <attr name="right_paddingLeft" format="dimension"/>
+        <attr name="right_paddingTop" format="dimension"/>
+        <attr name="right_paddingRight" format="dimension"/>
+        <attr name="right_paddingBottom" format="dimension"/>
+    </declare-styleable>
+
+</resources>
